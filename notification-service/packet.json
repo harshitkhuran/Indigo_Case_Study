@@ -1,0 +1,10 @@
+{
+    "name": "notification-service",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "firebase-admin": "^9.8.0",
+        "kafkajs": "^1.15.0",
+        "dotenv": "^10.0.0"
+    }
+}
